@@ -1,0 +1,40 @@
+.Navbar
+    padding: 1rem 0rem
+    border-bottom: 2px solid #ddd
+    .container
+        display: flex
+        justify-content: center
+        align-items: center
+        .logo,.nav-list
+            width: 50%
+        .logo
+            .logo-svg
+                width: 6%
+        .nav-list
+            list-style: none
+            display: flex
+            justify-content: space-between
+            align-items: center
+            .nav-item
+                position: relative
+                a
+                    color: #000
+                    text-decoration: none
+                    transition: all .3s ease-in-out
+                &::after
+                    content: ''
+                    position: absolute
+                    right: 0rem
+                    bottom: -2px
+                    background-color: #d35400
+                    width: 100%
+                    height: 2px
+                    transform: scale(0)
+                    transform-origin: left
+                    transition: all .3s ease-in-out
+                &:hover
+                    &::after
+                        transform: scale(1)
+                        transform-origin: left
+                    a
+                        color: #d35400
