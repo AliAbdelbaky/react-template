@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-template/static/css/main.7c005ca7.chunk.css",
-    "main.js": "/react-template/static/js/main.7daf60a5.chunk.js",
-    "main.js.map": "/react-template/static/js/main.7daf60a5.chunk.js.map",
-    "runtime-main.js": "/react-template/static/js/runtime-main.366f9935.js",
-    "runtime-main.js.map": "/react-template/static/js/runtime-main.366f9935.js.map",
-    "static/js/2.2bb4a5a4.chunk.js": "/react-template/static/js/2.2bb4a5a4.chunk.js",
-    "static/js/2.2bb4a5a4.chunk.js.map": "/react-template/static/js/2.2bb4a5a4.chunk.js.map",
-    "static/js/3.11eafd85.chunk.js": "/react-template/static/js/3.11eafd85.chunk.js",
-    "static/js/3.11eafd85.chunk.js.map": "/react-template/static/js/3.11eafd85.chunk.js.map",
-    "index.html": "/react-template/index.html",
-    "static/css/main.7c005ca7.chunk.css.map": "/react-template/static/css/main.7c005ca7.chunk.css.map",
-    "static/js/2.2bb4a5a4.chunk.js.LICENSE.txt": "/react-template/static/js/2.2bb4a5a4.chunk.js.LICENSE.txt",
-    "static/media/main.sass": "/react-template/static/media/home-bg.14eacc1c.jpg"
+    "main.css": "/react-template/home/static/css/main.a9f1b555.chunk.css",
+    "main.js": "/react-template/home/static/js/main.7daf60a5.chunk.js",
+    "main.js.map": "/react-template/home/static/js/main.7daf60a5.chunk.js.map",
+    "runtime-main.js": "/react-template/home/static/js/runtime-main.e54f34e6.js",
+    "runtime-main.js.map": "/react-template/home/static/js/runtime-main.e54f34e6.js.map",
+    "static/js/2.e22c33d9.chunk.js": "/react-template/home/static/js/2.e22c33d9.chunk.js",
+    "static/js/2.e22c33d9.chunk.js.map": "/react-template/home/static/js/2.e22c33d9.chunk.js.map",
+    "static/js/3.11eafd85.chunk.js": "/react-template/home/static/js/3.11eafd85.chunk.js",
+    "static/js/3.11eafd85.chunk.js.map": "/react-template/home/static/js/3.11eafd85.chunk.js.map",
+    "index.html": "/react-template/home/index.html",
+    "static/css/main.a9f1b555.chunk.css.map": "/react-template/home/static/css/main.a9f1b555.chunk.css.map",
+    "static/js/2.e22c33d9.chunk.js.LICENSE.txt": "/react-template/home/static/js/2.e22c33d9.chunk.js.LICENSE.txt",
+    "static/media/main.sass": "/react-template/home/static/media/home-bg.14eacc1c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.366f9935.js",
-    "static/js/2.2bb4a5a4.chunk.js",
-    "static/css/main.7c005ca7.chunk.css",
+    "static/js/runtime-main.e54f34e6.js",
+    "static/js/2.e22c33d9.chunk.js",
+    "static/css/main.a9f1b555.chunk.css",
     "static/js/main.7daf60a5.chunk.js"
   ]
 }
